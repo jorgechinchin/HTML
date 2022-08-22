@@ -1,0 +1,57 @@
+HTML
+Este no es un lenguaje de programaciónn porque no posee estructuras de control
+Lenguaje demarcado o etiquetado (Estructura básica de una web)
+Necesario navegador web
+
+HTML debe tener estructura marcada y standart
+Incluir cabecera y cuerpo
+en la cabecera <head> van metadatos no visibles titulo de la pagina en la pestaña
+<body> elementos a mostrar 
+
+Atajos de teclado
+ctrl+u Abrir codigo en navegador
+html:5 + enter Iniciar proyecto html
+ctrl+b deplegar menu lateral
+
+
+Etiquetas
+<h1..h6> Titulos 
+<h1> Solo debe haber 1
+<!----> Comentarios
+<p> Parrafos
+<br> salto de linea
+<hr> salto de linea dibujando l
+<em> <i> Cursivas
+<strong> exto en negrita
+<blockquote> Cita 
+<img> etiqueta imagen, atributos: src imagenes alt texto alternativo title imagen info 
+scr="" atributo para direccionar ubicacion de archivo <width> ancho <height> alto
+<Table> etiqueta principal de una tabla Atributos border="" para agregar bordes de tabla
+<tr> Fila 
+<td> columna <th> columna en negrita colspan="2" para incrementr elementos de una columna
+Listas
+<ol> ordenada ordenated Lists <ul> unordenated Lists
+<li> elemento de la Listas
+Tablas
+<table border="1"> Etiqueta principal y atributo opcional
+<tr> Columna
+<th> Fila
+colspan="2" atributo para espacio en tablas
+Formularios input
+<form> Formularios
+<label> nombre del input
+<input type="text" /> Etiqueta para input y atributo para definir tipo
+<textarea placeholder="Escribe tu descripcion"> Etiqueta para descripciones
+<input type="radio" name="genero" value="Hombre">Hombre<br/> Input bolitas relacionados por name
+input desplegable
+<select name="Tipo">
+<option value="Casa"> Casa </option> 
+Linkear elementos html
+<a> etiqueta  href="" atributo link target="_blank" atributo abrir en nueva pestaña
+
+
+
+
+CCS
+Lenguaje de maquetacion
+Hojas de estilo en cascada
